@@ -5,7 +5,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yan.teixeira.1000)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-teixeira-32ab82257)
 
-## Status 
+## Stats 
 ![Yan Teixeira GitHub status](https://github-readme-stats.vercel.app/api?username=yanteixeira&show_icons=true&theme=tokyonight)
 
 ### Linguagens que estou estudando no meu dia
