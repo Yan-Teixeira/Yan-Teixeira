@@ -1,4 +1,4 @@
-## Olá eu sou Yan Teixeira! 
+## Olá! Eu sou Yan Teixeira.
 ### Links para contato
 
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yan_teixeira09/profilecard/?igsh=MXhtZ2VpbG5xZWt0ZQ==)
