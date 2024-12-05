@@ -17,7 +17,7 @@
     <img aling="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">    
 </div><br/>
 
-Estou iniciando na carreira de programação, ainda etsou estudando, então... sou inexperiente. Porém, quero melhorar bastante para seguir esse ramo e se tornar um programador.
+Estou iniciando na carreira de programação, ainda estou estudando, então... sou inexperiente. Porém, quero melhorar bastante para seguir esse ramo e se tornar um programador.
 
 <div style= "display: inline_bloxk"><br/>
     <img aling="center" alt="" src="https://www.icegif.com/wp-content/uploads/2023/07/icegif-93.gif">
