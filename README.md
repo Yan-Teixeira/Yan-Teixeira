@@ -20,5 +20,5 @@
 Estou iniciando na carreira de programação, ainda estou estudando, então... sou inexperiente. Porém, quero melhorar bastante para seguir esse ramo e se tornar um programador.
 
 <div style= "display: inline_bloxk"><br/>
-    <img aling="center" alt="" src="https://www.icegif.com/wp-content/uploads/2023/07/icegif-93.gif">
+    <img aling="center" alt="" src="https://tenor.com/pt-BR/view/dark-souls-dance-sif-gif-14567450">
 </div><br/>
